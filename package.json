@@ -2,6 +2,7 @@
   "name": "try-skip-to-next-frame",
   "version": "1.0.0",
   "description": "A nice wrapper around the \"standard\" setTimeout(func, 0) paradigm",
+  "repository": "git@github.com:nbarray/try-skip-to-next-frame.git",
   "main": "index.js",
   "author": "Nicolas Barray <nbarray@gmail.com>",
   "license": "MIT"
